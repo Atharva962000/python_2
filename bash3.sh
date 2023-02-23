@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 echo 'script3====='
-cd /home/atharva/Flask_servers/Python
+cd /home/atharva/work
 echo "$(pwd)"
 conda deactivate
 conda activate apienv
