@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 echo 'script2====='
-cd /home/atharva/Flask_servers 
+cd /home/atharva/work
 echo "$(pwd)"
 conda deactivate
 conda activate apienv
